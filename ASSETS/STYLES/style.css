@@ -116,6 +116,8 @@ span {
     border: 1px solid #ccc;
     margin: 10px 0;
     border-radius: 5px;
+    text-decoration: none;
+    color: #000;
 
     &:hover {
         background-color: #bebdbdbe;
